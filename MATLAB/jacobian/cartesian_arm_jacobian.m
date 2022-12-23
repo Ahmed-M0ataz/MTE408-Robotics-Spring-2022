@@ -31,7 +31,8 @@ L(3) = Link('a',a,'alpha',alpha,'prismatic','qlim',[1 10]);
 
 %% Create the arm based on links and display DH table
 arm = SerialLink(L,'name','Cartesian Arm')
-
+j= arm.jacob0([0 0 0]);
+j_invers= j^(-1)
 %% Show the arm and have sliders for each joint
 arm.teach([5 5 5]);
 
