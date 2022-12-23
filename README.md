@@ -68,8 +68,17 @@ This a repository with all of the lab presentations and exercises.
 **LAB10** : Trajectory Generation
 --------------------------------------------------------
 
+**LAB11** : Motor Sizing using Visual Sizer Pro
+--------------------------------------------------------
+
+**LAB12** : Motor Sizing with Gear Inertia using SolidWORKS
+--------------------------------------------------------
+
+
 <br/>
+
 # MATLAB EXERCISES
+
 
 ![](images/MATLAB/1.png)
 
@@ -85,6 +94,18 @@ This a repository with all of the lab presentations and exercises.
 
 ![](images/MATLAB/4.gif)
 
+<br/>
 
+# VISUAL SIZER
 
+![](images/sizer/sizer.png)
 
+<br/>
+
+# SOLIDWORKS
+
+<br/>
+
+![](images/sw/sw.gif)
+
+<br/>
